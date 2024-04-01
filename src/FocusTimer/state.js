@@ -2,5 +2,6 @@ export default {
   minutes: 25,
   seconds: 0,
   isRunnig: false,
-  isMute: true,
+  isMute: false,
+  countdownId: null,
 }
